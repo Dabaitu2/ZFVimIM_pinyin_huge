@@ -1,2 +1,5 @@
 ca 1
+haokun 1
+nan 1
+shenghuo 1
 wo 1
