@@ -1,4 +1,5 @@
 ca 1
+goushi 1
 haofan 1
 haokun 1
 lei 1
