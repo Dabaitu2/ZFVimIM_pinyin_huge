@@ -1,4 +1,5 @@
 ca 1
+de 1
 goushi 1
 haofan 1
 haokun 1
@@ -10,4 +11,6 @@ sm 1
 wei 1
 wo 1
 yangzi 1 1
+zhaodao 1
+zheng 1
 zujian 1
